@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Sarah Jang</h1>
-<h3 align="center">An aspiring software engineer currently studying at UMass-Amherst</h3>
+## Hi there, I'm Sarah Jang
+An aspiring software engineer currently studying at UMass-Amherst
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
