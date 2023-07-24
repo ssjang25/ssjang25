@@ -12,6 +12,4 @@
 
 
 # Currently, 
-- 🌱 I’m learning Swift and the basics of XCode!
-
-- 🔭 I’m working on a social media application with my crew.. soon to be published!
+- 🌱 I’m learning the basics of React!
