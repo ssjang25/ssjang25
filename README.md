@@ -10,6 +10,8 @@
 
 - CS 198C: A programming class taught in C. This course covers basic C data types, functions, I/O format, basic pointer manipulation and introduction to using standard tools (gcc and make), all in a terminal environment (Linux shell/command line).
 
+- CS 250: An introduction to computation course that deals with "discrete mathematics". The covered topics include logic, number theory, induction proofs, search algorithms, regular languages, finite-state machines, and computability. 
 
-# Currently, 
-- 🌱 I’m learning the basics of React!
+- CS 230: An extension of CS 198C that covers the C language and computer systems principles. Topics include programming language run-time systems, concurrency, and synchronization, with a focus on key operating system features, I/O and networking, and distributed services.
+
+- CS 325: A human computer interaction (HCI) course that focuses on Usability, Human Computer Interaction, User Interfaces, and Human Centered Computing. By learning about user interface prototyping, human centered design, and evaluation methodologies, a final hi-fidelity prototype for a hypothetical mobile application was created as the final project for this course. 
