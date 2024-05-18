@@ -1,4 +1,5 @@
-# ⭐ Hi there! I'm Sarah Jang and I'm an aspiring software engineer and a rising junior at the University of Massachusetts-Amherst majoring in Computer Science. I've taken several relevant CS courses at UMass, including: 
+# ⭐ Hi there! 
+### I'm Sarah Jang and I'm an aspiring software engineer and a rising senior at the University of Massachusetts-Amherst majoring in Computer Science. I've taken several relevant CS courses at UMass, including: 
 
 - CS 121: An introduction to programming class taught in Java. This course covers Object-Oriented Programming, classes, basic data types, loops, inheritance, recursion, and interfaces. 
 
