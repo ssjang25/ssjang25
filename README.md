@@ -15,4 +15,6 @@
 
 - CS 230: An extension of CS 198C that covers the C language and computer systems principles. Topics include programming language run-time systems, concurrency, and synchronization, with a focus on key operating system features, I/O and networking, and distributed services.
 
-- CS 325: A human computer interaction (HCI) course that focuses on Usability, Human Computer Interaction, User Interfaces, and Human Centered Computing. By learning about user interface prototyping, human centered design, and evaluation methodologies, a final hi-fidelity prototype for a hypothetical mobile application was created as the final project for this course. 
+- CS 325: A human computer interaction (HCI) course that focuses on Usability, Human Computer Interaction, User Interfaces, and Human Centered Computing. By learning about user interface prototyping, human centered design, and evaluation methodologies, a final hi-fidelity prototype for a hypothetical mobile application was created as the final project for this course.
+
+- CS 389: Introduction to Machine Learning. This course focused on the basics of ML using Python and Pytorch.
