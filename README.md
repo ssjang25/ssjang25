@@ -1,5 +1,5 @@
 # ⭐ Hi there! 
-### I'm Sarah Jang and I'm an aspiring software engineer and a rising senior at the University of Massachusetts-Amherst majoring in Computer Science. I've taken several relevant CS courses at UMass, including: 
+### I'm Sarah Jang and I'm an aspiring software engineer and a senior at the University of Massachusetts-Amherst majoring in Computer Science. I've taken several relevant CS courses at UMass, including: 
 
 - CS 121: An introduction to programming class taught in Java. This course covers Object-Oriented Programming, classes, basic data types, loops, inheritance, recursion, and interfaces. 
 
@@ -17,4 +17,4 @@
 
 - CS 325: A human computer interaction (HCI) course that focuses on Usability, Human Computer Interaction, User Interfaces, and Human Centered Computing. By learning about user interface prototyping, human centered design, and evaluation methodologies, a final hi-fidelity prototype for a hypothetical mobile application was created as the final project for this course.
 
-- CS 389: Introduction to Machine Learning. This course focused on the basics of ML using Python and Pytorch.
+- CS 389: Introduction to Machine Learning. This course focused on the basics of ML using Python and Pytorch. For the final class project, a teammate and I created an audio-emotion recognition model using the RAVDESS speech dataset. 
